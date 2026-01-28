@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in Satun
-* 🖥️  See my portfolio at [seereen.website](http://seereen.website)
-* 🖥️  See my cv at [seereen.online](http://seereen.online)
-* ✉️  You can contact me at [seereen.2540@gmail.com](mailto:seereen.2540@gmail.com)
+* I'm based in Satun
+* See my portfolio at [seereen.website](http://seereen.website)
+* See my blog at [seereen.online](http://seereen.online)
+* You can contact me at [seereen.2540@gmail.com](mailto:seereen.2540@gmail.com)
 
 ### Skills
 
