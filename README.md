@@ -1,15 +1,66 @@
-Hi, My name is Seereen Yangpaknam
-==========================================================================================================================================
+# Seereen Yangpaknam
 
-* I'm based in Satun
-* See my portfolio at [seereen.website](http://seereen.website)
-* See my blog at [seereen.online](http://seereen.online)
-* You can contact me at [seereen.2540@gmail.com](mailto:seereen.2540@gmail.com)
+**Full-stack Developer** obsessed with clean DX and snappy web architecture.
 
-### Skills
+> "Building stuff is easy. Building the _right_ stuff with the right tools is where the fun begins."
 
+---
+
+### My Go-To Stack
+
+I'm currently doubling down on tools that balance rapid development with a polished user experience:
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,ts,pnpm,nestjs,postgres,supabase" alt="Core Stack" />
+  <img src="https://img.shields.io/badge/-AI_Enhanced-000000?style=flat-square&logo=openai&logoColor=white" height="48" alt="AI Enhanced" />
+  <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" height="48" alt="ESLint" />
+  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="48" alt="Prettier" />
+  <img src="https://img.shields.io/badge/-Swagger-1b1b1f?style=flat-square&logo=swagger&logoColor=85EA2D" height="48" alt="Swagger" />
 </p>
 
+- **Frameworks:** `Next.js` (App Router) or `React` + `Vite`
+- **Package Manager:** `pnpm`
+- **Quality Control:** `ESLint` & `Prettier` (Strict linting for consistent quality)
+- **Workflow:** **AI-Augmented Development** — Using AI as a strategic co-pilot to eliminate boilerplate and stress-test architectural decisions, while keeping human intent and code integrity at the core.
+- **Styling:** `Tailwind CSS` + `shadcn/ui`
+- **State & Data:** `TanStack Query`, `Zustand`, `Zod`, `Axios`
+- **Visuals:** `Framer Motion` & `Lucide React`
+- **Backend & Database:** `NestJS` + `PostgreSQL` or `Supabase` (with `Swagger` for docs)
+
+---
+
+### The Toolbelt
+
+#### **Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,bootstrap,vite" alt="Frontend Skills" />
+</p>
+
+#### **Backend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,supabase,postgres,mysql,mongodb" alt="Backend Skills" />
+  <img src="https://img.shields.io/badge/-Swagger-1b1b1f?style=flat-square&logo=swagger&logoColor=85EA2D" height="48" alt="Swagger" />
+</p>
+
+#### **Utilities**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,pnpm,postman,npm" alt="Tool Skills" />
+  <img src="https://img.shields.io/badge/-AI_Enhanced-000000?style=flat-square&logo=openai&logoColor=white" height="48" alt="AI Enhanced" />
+  <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" height="48" alt="ESLint" />
+  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="48" alt="Prettier" />
+</p>
+
+---
+
+### Let's connect
+
+- [Portfolio: seereen.website](http://seereen.website)
+- [Blog: seereen.online](http://seereen.online)
+- Always down to chat about tech stacks or system architecture.
+
+---
+
+_Last updated: February 2026_
