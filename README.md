@@ -4,6 +4,9 @@
 
 > "Building stuff is easy. Building the _right_ stuff with the right tools is where the fun begins."
 
+- [Portfolio: seereen.website](http://seereen.website)
+- [Blog: seereen.online](http://seereen.online)
+
 ---
 
 ### My Go-To Stack
@@ -54,13 +57,3 @@ I'm currently doubling down on tools that balance rapid development with a polis
 </p>
 
 ---
-
-### Let's connect
-
-- [Portfolio: seereen.website](http://seereen.website)
-- [Blog: seereen.online](http://seereen.online)
-- Always down to chat about tech stacks or system architecture.
-
----
-
-_Last updated: February 2026_
