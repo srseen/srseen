@@ -5,7 +5,6 @@
 > "Building stuff is easy. Building the _right_ stuff with the right tools is where the fun begins."
 
 - [Portfolio: seereen.website](http://seereen.website)
-- [Blog: seereen.online](http://seereen.online)
 
 ---
 
